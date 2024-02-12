@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo](https://your-solution-url.com)
-- Live Site URL: [Age Calculator](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/Oludefiyinfoluwa06/Age-Calculator)
+- Live Site URL: [Age Calculator](https://age-calculator-ashy-alpha.vercel.app/)
 
 ## My process
 
